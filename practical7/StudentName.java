@@ -4,6 +4,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class StudentName {
+	//sdfddfkgmkld
 	
 	//boolean function which just test if a string is a integer 
 	public boolean isInteger( String input ) {
@@ -15,7 +16,7 @@ public class StudentName {
 	        return false;   // if "word" than -> error -> false
 	    }
 	}
-	
+	//kshdfds
 	public static void main(String[] args){
 		
 		//create an object (call a method which is not static)
