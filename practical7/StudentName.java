@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class StudentName {
-	
+	//jkdksgmklsdl
 	//boolean function which just test if a string is a integer 
 	public boolean isInteger( String input ) {
 	    try {
